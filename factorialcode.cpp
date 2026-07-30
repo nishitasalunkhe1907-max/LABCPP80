@@ -11,7 +11,7 @@ int main()
 
     if (n < 0)
     {
-        cout << "Factorial is not defined for negative numbers.";
+        cout << "Factorial is not defined for positive numbers.";
     }
     else
     {
