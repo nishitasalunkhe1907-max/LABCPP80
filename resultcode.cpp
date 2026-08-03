@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
+
+// Function to calculate percentage
 float calculatePercentage(int marks[], int size)
 {
     int sum = 0;
